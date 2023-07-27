@@ -218,6 +218,7 @@ text-khedma .bot {
 @media (max-width:767px) {
   .img-2 img {
     width: 351px;
+    margin-left:0;
 }
 .img-2 .text {
     text-align: center;
@@ -281,7 +282,7 @@ width: 44px;
 @media (max-width:767px) {
   .services .contaner{
     justify-items: flex-start;
-    margin-left: 2%;
+    margin-left: 8%;
   }
   .services .box p{
     display: none;
