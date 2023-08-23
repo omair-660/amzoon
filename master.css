@@ -162,7 +162,7 @@ text-khedma .bot {
 }
 .img-2{
   position: relative;
-  margin-left: 15px;
+  margin-left:0;
 }
 .img-2::after {
     content: "";
